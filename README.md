@@ -1,2 +1,2 @@
 # Bhaskara_script
- Script que resolve bhaskara
+ Descubra a expressão, o cálculo e valor de delta através dos valores de a, b e c.
